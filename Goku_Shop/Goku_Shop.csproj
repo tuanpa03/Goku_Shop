@@ -98,6 +98,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Test_DinhNgoc\Class1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
